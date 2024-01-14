@@ -1,0 +1,3 @@
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIF78OXSDkRM38vjj0QxXQ0o1Is1W+Yt8gcPAKUlIheYJ valo95631@gmail.com
+q
+ssh-keygen -t rsa -b 4096 -C valo95631@gmail.com
